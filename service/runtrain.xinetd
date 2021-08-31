@@ -1,0 +1,12 @@
+service runtrain
+{
+  socket_type   = stream
+  flags         = REUSE
+  disable       = no
+  protocol      = tcp
+  wait          = no
+  user          = runtrain
+  server        = /home/runtrain/server.sh
+  type          = UNLISTED
+  port          = 31337
+}
