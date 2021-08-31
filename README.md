@@ -1,4 +1,4 @@
-#[Rev] RunawayTrain
+# [Rev] RunawayTrain
 
 `little pwn` , `Reversing`
 
@@ -13,7 +13,7 @@ nc 3.19.107.33 31337
 Author. myria
 ```
 
-#### [HINT]
+#### HINT
 
 ```
 Watch from 0:00 to 5:35. 
